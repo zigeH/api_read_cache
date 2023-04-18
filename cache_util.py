@@ -6,7 +6,7 @@ import datetime
 GITHUB_API_BASE_URL = "https://api.github.com"
 
 # GitHub API token
-GITHUB_API_TOKEN = "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"
+GITHUB_API_TOKEN = "YOUR_GITHUB_API_TOKEN"
 
 auth_headers = {"Authorization": f"Bearer {GITHUB_API_TOKEN}"}
 
